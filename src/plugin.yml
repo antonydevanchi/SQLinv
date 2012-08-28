@@ -1,0 +1,7 @@
+name: SQLinv
+main: sqlinv.Main
+description: Плагин разработанный для сервера hardcorecraft.ru
+version: beta1.2
+commands:
+  sqlinv:
+    description: reload configuration
